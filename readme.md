@@ -1,3 +1,7 @@
+## Project Note
+
+This project is a customized and extended version of an existing open-source repository. Additional modifications and AI-based stock analysis features were implemented for the AI-BFSI project.
+
 # Stock Management System — CSV Stock Data API
 
 A Node.js/Express REST API that ingests stock market data from CSV files, validates and stores it in MongoDB, and exposes analytics endpoints for highest volume, average close price, and average VWAP over date ranges and symbols.
